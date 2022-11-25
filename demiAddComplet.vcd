@@ -1,0 +1,57 @@
+$date
+  Tue Nov 15 14:04:26 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module demiaddcomplet_tb $end
+$var reg 1 ! s_a $end
+$var reg 1 " s_b $end
+$var reg 1 # s_ri_1 $end
+$var reg 1 $ s_s $end
+$var reg 1 % s_ri $end
+$scope module orgate $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( ri_1 $end
+$var reg 1 ) s $end
+$var reg 1 * ri $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+#1000000000000
+1"
+1$
+1'
+1)
+#2000000000000
+1!
+0"
+1&
+0'
+#3000000000000
+1"
+0$
+1%
+1'
+0)
+1*
+#4000000000000
